@@ -1,1 +1,2 @@
 reactportfolio/** filter=lfs diff=lfs merge=lfs -text
+reactportfolio/**/* filter=lfs diff=lfs merge=lfs -text
