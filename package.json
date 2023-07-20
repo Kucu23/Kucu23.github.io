@@ -6,7 +6,7 @@
    "scripts": {
   "deploy": "vite build && gh-pages -d dist" },
   
-  "name": "react-portfolio",
+  "name": "react-portfolio-projects",
   "private": true,
   "version": "0.0.0",
   "type": "module",
