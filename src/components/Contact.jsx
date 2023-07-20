@@ -34,7 +34,7 @@ const Contact = () => {
         </div>
         {/* form */}
         <div className="md:w-1/2">
-            <p className="mt-16 text-white text-2xl mb-6">Contact me, let's make magic together</p>
+            <p className="mt-16 text-white text-2xl mb-6">Contact me, let's make projects together</p>
             <form>
                 <input type="text" name="name" placeholder="Name:" className="bg-[#F5F5F5] bg-opacity-10 py-3 px-3 md:w-3/4 w-full rounded "/>
                 <input type="email" name="email" placeholder="Email:" className="bg-[#F5F5F5] bg-opacity-10 py-3 px-3 md:w-3/4 w-full rounded my-3"/>

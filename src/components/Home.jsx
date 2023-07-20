@@ -10,6 +10,7 @@ const Home = () => {
                 <div className='flex flex-col md:flex-row items-center justify-between w-full'>
                     {/* obrazki i content */}
                     {/* tekst */}
+                    
                     <div className='text-white'>
                         <h6 className='text-3xl mt-12'>Hello, I'm</h6>
                         <h1 className='font-semibold md:text-5xl my-4 text-3xl'>Michał Kuczyński</h1>
@@ -25,7 +26,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div className='h-9 bg-[#382b97] w-full mx-auto absolute left-0 hidden md:block'>
+            <div className='h-12 bg-[#382b97] w-full mx-auto absolute left-0 hidden md:block'>
             </div>
         </div>
     );
