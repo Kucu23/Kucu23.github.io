@@ -1,7 +1,10 @@
 
 
-
 {
+
+  "homepage" : "https://kucu23.github.io/react-portfolio-project",
+   "scripts": {
+  "deploy": "vite build && gh-pages -d dist" },
   
   "name": "react-portfolio",
   "private": true,
