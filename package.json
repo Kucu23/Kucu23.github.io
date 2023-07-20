@@ -2,12 +2,12 @@
 
 {
 
-  "homepage" : "https://kucu23.github.io/react-portfolio-project",
+  "homepage" : "https://Kucu23.github.io/react-portfolio-project",
    "scripts": {
   "deploy": "vite build && gh-pages -d dist" },
   
   "name": "react-portfolio-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
